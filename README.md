@@ -1,3 +1,3 @@
 # Mobile-App-Development---iOS
 
-- [Assignment1](./Shopping_Platform-Assignment 1)
+- [Assignment1](./Shopping_Platform-Assignment%201)
